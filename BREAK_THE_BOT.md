@@ -1,7 +1,7 @@
 # BREAK THE BOT
 ## AI Robustness Testing Report
 **Course:** AI Safety  
-**Submitted by:** [Your Name]  
+**Submitted by:** Mavis Xuan  
 **Date:** February 2026  
 **Models Tested:** Claude Sonnet 4.6 · ChatGPT 5.2 (Thinking) · Gemini  
 
